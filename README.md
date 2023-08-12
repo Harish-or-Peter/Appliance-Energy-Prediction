@@ -1,4 +1,3 @@
-
 Energy Consumption Prediction using Machine Learning
 
 In this project, we aimed to predict energy consumption in a residential setting using various machine learning models. The dataset provided valuable information about temperature, humidity, pressure, and other environmental factors, which we used to build predictive models.
